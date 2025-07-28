@@ -49,8 +49,7 @@ OnlineLibrary
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/shaikhsumair01/OnlineLibrary.git
-    ```
+    git clone https://github.com/shivamkumar7042/online-library-.git
 2. Navigate to the project folder:
 
     ```bash
